@@ -8,7 +8,7 @@ UnityとC#を中心にゲーム開発に取り組んでいる学生です。
 本作品を東京ゲームショウなど外部イベントにて展示しました。
 ![Titleimage](https://github.com/hw23a152/portfolio/blob/main/Image2/t08_title.png)  
 - 詳細はこちら  
-[burnout](https://github.com/hw23a152/burnout)  
+[burnoutの詳細を確認する](https://github.com/hw23a152/burnout)  
 ソースコード等の確認は[こちら](https://github.com/hw23a152/burnout/tree/main/Assets/Yamaguchi/)をご覧ください。
 
 - 使用技術： Unity/C#  
