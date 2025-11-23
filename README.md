@@ -9,6 +9,7 @@ UnityとC#を中心にゲーム開発に取り組んでいる学生です。
 ![Titleimage](https://github.com/hw23a152/portfolio/blob/main/Image2/t08_title.png)  
 - 詳細はこちら  
 [burnout](https://github.com/hw23a152/burnout)
+ソースコード等の確認は[こちら](https://github.com/hw23a152/burnout/tree/main/Assets/Yamaguchi/)をご覧ください。
 
 - 使用技術： Unity/C#  
 - 実績：東京ゲームショウ2025,Bitsummit2025,ゲームパビリオンjpなどに展示
