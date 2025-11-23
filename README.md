@@ -6,6 +6,10 @@ UnityとC#を中心にゲーム開発に取り組んでいる学生です。
 ## Burnout チーム制作
 ２体のキャラクターを同時に操作し、制限時間以内にゴールまでお宝を運ぶマルチタスクアクションゲームです。
 本作品を東京ゲームショウなど外部イベントにて展示しました。
-![Titleimage](https://github.com/hw23a152/portfolio/blob/main/Image2/t08_title.png)
+![Titleimage](https://github.com/hw23a152/portfolio/blob/main/Image2/t08_title.png)  
+- 詳細はこちら  
+[burnoutの詳細はこちら](https://github.com/hw23a152/burnout_02)
+
+- 
 
 
